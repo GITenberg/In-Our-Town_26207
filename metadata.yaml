@@ -1,0 +1,49 @@
+_repo: In-Our-Town_26207
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Glackens, William J.
+    aliases:
+    - Glackens, W.
+    - Glackens, William
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '31865'
+    url: http://www.gutenberg.org/2009/agents/31865
+    wikipedia: http://en.wikipedia.org/wiki/William_Glackens
+  - agent_name: Gruger, Frederic Rodrigo
+    aliases:
+    - Gruger, F. R. (Frederic Rodrigo)
+    - Gruger, Frederic R. (Frederic Rodrigo)
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '31201'
+    url: http://www.gutenberg.org/2009/agents/31201
+covers:
+- cover_type: archival
+  image_path: 26207-h/images/cover.jpg
+creator:
+  author:
+    agent_name: White, William Allen
+    alias: White, W. A. (William Allen)
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '1822'
+    url: http://www.gutenberg.org/2009/agents/1822
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_White
+description: ''
+gutenberg_issued: '2008-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26207'
+  lccn: '06012564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+title: In Our Town
+url: http://www.gutenberg.org/ebooks/26207
